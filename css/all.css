@@ -8,10 +8,10 @@ html {
 body {
   margin: 0;
   height: 100%;
-  font: 1.3rem/1.61538 "Montserrat", sans-serif; }
+  font: 1.3rem/1.61538 "Vogue_b", sans-serif; }
 
 p {
-  font-family: "Source Sans Pro", sans-serif; }
+  font-family: "Vogue_b", sans-serif; }
 
 .btn, a {
   -webkit-transition: color linear .4s, background-color linear .4s, border-color linear .4s;
