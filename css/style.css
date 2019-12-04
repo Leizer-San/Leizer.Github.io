@@ -132,6 +132,12 @@ button {
     margin-top: 15px;
 }
 
+.content-pa {
+    padding-top: 30px;
+    border-top: 1px dashed #dedede;
+    border-bottom: 1px dashed #dedede;
+    }
+
 .content-page {
     padding-top: 30px;
     padding-bottom: 60px;
@@ -431,7 +437,6 @@ tr > td:nth-child(1){
     font-weight: 500;
     font-size: 13px;
     color: #888888;
-    width: 140px;
 }
 
 tr > td:nth-child(2) {
