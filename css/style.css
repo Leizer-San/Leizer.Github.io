@@ -11,7 +11,7 @@
 
 
 /*
-   
+
    Table Of Content
    
    1. Global Style
@@ -51,7 +51,7 @@
 
 
 body {
-    font-family: "VERDANA";
+    font-family: "FRANKLIN GOTHIC MEDIUM";
     background: #fafafa !important;
 }
 	
@@ -316,13 +316,10 @@ button {
     color: #1abc9c;
 }
 
-
-
 /* About Me (Left Sidebar) */	
 
 .about-fixed {
     position: fixed;
-    width: 20.8%;
     }
 
 .my-pic {
@@ -619,7 +616,8 @@ div.blog-post {
 
 .blog-post .post-title h2 {
     font-size: 25px;
-    line-height: 35px;
+    padding-left: 15px;
+    line-height: 0px;
     font-weight: 600;
     letter-spacing: 0.5px;
 }
@@ -638,7 +636,7 @@ div.blog-post {
     color: #696868;
     font-weight: 300;
     letter-spacing: 0.8px;
-    font-family: "Poppins", sans-serif;
+    font-family: "arial";
 }
 
 
