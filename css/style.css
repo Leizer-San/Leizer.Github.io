@@ -600,18 +600,13 @@ div.blog-post {
 }
 
 .blog-post .post-image img {
-    width: 100%;
+    width: 400;
 }
 
 .blog-post .post-image p {
-    text-align: center;
-    font-size: 14px;
-    margin-top: 10px;
+    text-align: left;;
 }
 
-.blog-post .post-image a {
-    font-weight: 600;
-}
 
 .blog-post .post-title h1 {
     color: #333333;
