@@ -5,7 +5,7 @@
     Website : http://www.uipasta.com/
     Support : http://www.uipasta.com/support/
 	
-	
+
 */
 
 
@@ -316,7 +316,7 @@ button {
     color: #1abc9c;
 }
 
-/* About Me (Left Sidebar) */	
+/* About Me (Left Sidebar) */
 
 .about-fixed {
     position: fixed;
@@ -333,13 +333,11 @@ button {
 
 .my-detail {
     text-align: center;
-    margin-bottom: 30px;
     background: #ffffff;
     box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
 }
 
 .my-detail .white-spacing {
-    padding: 23px 0;
     border-bottom: 1px dashed #cccccc;
 }
 
