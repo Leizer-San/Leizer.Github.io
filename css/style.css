@@ -51,7 +51,7 @@
 
 
 body {
-    font-family: 'Neptune';
+    font-family: "Poppins", sans-serif;
     background: #fafafa !important;
 }
 	
@@ -638,7 +638,7 @@ div.blog-post {
     color: #696868;
     font-weight: 300;
     letter-spacing: 0.8px;
-    font-family: 'Neptune';
+    font-family: "Poppins", sans-serif;
 }
 
 
