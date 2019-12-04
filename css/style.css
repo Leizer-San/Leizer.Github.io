@@ -323,6 +323,10 @@ button {
 .about-fixed {
     position: fixed;
     width: 20.8%;
+    }
+
+.my-preview img {
+    width: 450;
 }
 
 .my-pic {
