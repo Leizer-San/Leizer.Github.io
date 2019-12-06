@@ -169,7 +169,7 @@
              e.preventDefault();
              $("div.blog-post:hidden").slice(0, 1).slideDown(300);
              if ($("div.blog-post:hidden").length == 0) {
-             $('#post-end-message').html('<div class="end">End</div>').fadeIn(800);
+             $('#post-end-message').html('<div class="end">BCE</div>').fadeIn(800);
              $("#load-more-post").fadeOut(100);
               }
              });
@@ -183,7 +183,7 @@
              e.preventDefault();
              $("div.portfolio:hidden").slice(0, 1).slideDown(300);
              if ($("div.portfolio:hidden").length == 0) {
-             $('#portfolio-end-message').html('<div class="end">End</div>').fadeIn(800);
+             $('#portfolio-end-message').html('<div class="end">BCE</div>').fadeIn(800);
              $("#load-more-portfolio").fadeOut(100);
               }
              });
